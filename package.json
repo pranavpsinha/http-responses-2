@@ -1,0 +1,28 @@
+{
+  "name": "http-responses-2",
+  "email": "pranavpsinha@duck.com",
+  "version": "1.0.8",
+  "description": "Generic API responses { success, error }",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose ./tests"
+  },
+  "keywords": [
+    "response",
+    "response-manager",
+    "success-response",
+    "error-response",
+    "tdd",
+    "test-driven-development"
+  ],
+  "dependencies": {
+    "jest": "^25.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pranavpsinha/http-responses-2.git"
+  },
+  "homepage": "https://github.com/pranavpsinha/http-responses-2", 
+  "author": "pranavpsinha",
+  "license": "ISC"
+}
